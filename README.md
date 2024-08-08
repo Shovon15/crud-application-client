@@ -1,18 +1,18 @@
 # React + Vite
 
 
-###Clone the repository:
+### Clone the repository:
 git clone https://github.com/Shovon15/crud-application-client.git
 ```
 cd crud-application-clien
 ```
 
-###Install dependencies:
+### Install dependencies:
 ```
 npm install
 ```
 
-###start the development server:
+### start the development server:
 ```
 npm run dev
 ```
